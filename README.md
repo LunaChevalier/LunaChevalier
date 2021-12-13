@@ -13,11 +13,11 @@
   * リポジトリは[こちら](https://github.com/LunaChevalier/markdown-blog)
 
 # GitHub
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LunaChevalier&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaChevalier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LunaChevalier&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaChevalier&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## トロフィー
-[![trophy](https://github-profile-trophy.vercel.app/?username=LunaChevalier)](https://github.com/LunaChevalier/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LunaChevalier&theme=dracula)](https://github.com/LunaChevalier/github-profile-trophy)
 
 
 # Qiita
